@@ -35,7 +35,7 @@ listed, please submit an issue to this repository!
 ## Quick Example
 
 This example is intended to reflect what should be capable with this library. We're going to 
-use [cspray/database-testing-phpunit](https://github.com/cspray/databse-testing-phpunit) as our testing extension, it is ubiquitous and likely the framework you'll start off using with this library.
+use [cspray/database-testing-phpunit](https://github.com/cspray/database-testing-phpunit) as our testing extension, it is ubiquitous and likely the framework you'll start off using with this library.
 
 ```php
 <?php declare(strict_types=1);
